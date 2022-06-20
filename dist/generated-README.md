@@ -1,39 +1,51 @@
 
-  # ReadMeGenerator
+  # ReadMe Generator
   
-   
+  
+  ![badge](https://img.shields.io/badge/license-mit-blue)
+    
 
   ## Table-of-Contents
 
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-   
+  
+  * [License](#license)
+    
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
   
   ## [Description](#table-of-contents)
 
-  To create professional markdown files quickly and effectively 
+  This readme generator will create a professional markdown file to show case your project repository on github. 
 
-  To allow developers to spend more time on their code by saving time on markdown creation.
+  The readme generator was created to help developers manage their time better by  allowing them more time to code and less time creating a markdown from scratch.
 
-  Simply by answering prompt questions and employing the generated markdown directly to their repository.
+  One would use this by simply running index.js from the terminal and answering the following prompts.
 
   ## [Installation](#table-of-contents)
 
-  Copy the generated markdown in the 'dist' folder and apply that file to your project repository.
+  To install, copy and paste the files in this repository, open your terminal and type"node index.js" to run the script.
 
   ## [Usage](#table-of-contents)
 
-  Copy generated markdown and paste into the root folder of your repository.
+  To use this application, answer the prompts in index.js and see the generated markdown file in the "dist" folder.
   
   For more information on how to add screenshots for examples, visit the following website:
   
   [Mark Down Tutorial](https://agea.github.io/tutorial.md/)
   
-   
+  
+  ## [License](#table-of-contents)
+
+  The application is covered under the following license:
+
+  
+  [mit](https://choosealicense.com/licenses/mit)
+    
+    
 
   ## [Contributing](#table-of-contents)
   
@@ -43,7 +55,7 @@
 
   ## [Tests](#table-of-contents)
 
-  By viewing the generated markdown and seeing if consistent with your answers.
+  To test, check the generated markdown file for consistency with the answered prompts.
 
   ## [Questions](#table-of-contents)
 
