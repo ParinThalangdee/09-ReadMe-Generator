@@ -19,19 +19,19 @@
   
   ## [Description](#table-of-contents)
 
-  This readme generator will create a professional markdown file to show case your project repository on github. 
+  A readme generator that will help streamline the development process.
 
-  The readme generator was created to help developers manage their time better by  allowing them more time to code and less time creating a markdown from scratch.
+  To help ease the time used in a project for creating a markdown.
 
-  One would use this by simply running index.js from the terminal and answering the following prompts.
+  By simply running the script and using the generated markdown.
 
   ## [Installation](#table-of-contents)
 
-  To install, copy and paste the files in this repository, open your terminal and type"node index.js" to run the script.
+  Clone the repository code and type "node index.js" in the integrated terminal
 
   ## [Usage](#table-of-contents)
 
-  To use this application, answer the prompts in index.js and see the generated markdown file in the "dist" folder.
+  To use this app, simply answer the prompts and use the generated markdown file.
   
   For more information on how to add screenshots for examples, visit the following website:
   
@@ -55,7 +55,7 @@
 
   ## [Tests](#table-of-contents)
 
-  To test, check the generated markdown file for consistency with the answered prompts.
+  Cross checking the answers to the terminal prompts to the content of the generated markdown file.
 
   ## [Questions](#table-of-contents)
 
