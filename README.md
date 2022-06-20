@@ -5,7 +5,7 @@
   ![badge](https://img.shields.io/badge/license-mit-blue)
     
   ![til](utils/assets/ReadMeGeneratorvid.gif)  
-  [Video showing usage of markdown generator](https://www.youtube.com/watch?v=dVMz67bS7vo)
+  [Link to video of ReadMeGenerator](https://www.youtube.com/watch?v=dVMz67bS7vo)
   
   ## Table-of-Contents
 
